@@ -1,14 +1,14 @@
 # Mitus 🌐
 
-Mitus es una aplicación web desarrollada con **HTML, CSS y JavaScript**.
+Mitus is a web application developed with **HTML, CSS and JavaScript**.
 
-## Características ✨
-- Interfaz moderna y responsiva 🎨
-- Funcionalidades interactivas con JavaScript ⚡
-- Diseño optimizado para rendimiento 🚀
+## Features ✨
+- Modern and responsive interface 🎨
+- Interactive functionalities with JavaScript ⚡
+- Performance optimized design 🚀
 
-## Instalación 💻
-No se necesita instalación. Solo clona el repositorio y abre `index.html` en tu navegador.
+## Installation 💻
+No installation is required. Just clone the repository and open `index.html` in your browser.
 
-```sh
+````sh
 git clone https://github.com/GumeeR/Portafoliomitus.git
