@@ -1,4 +1,4 @@
-# Mitus 🌐
+# Mitus 🟣🌐
 
 Mitus is a web application developed with **HTML, CSS and JavaScript**.
 
